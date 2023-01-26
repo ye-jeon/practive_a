@@ -7,11 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HellospringApplication {
 
 	public static void main(String[] args) {
-<<<<<<< main
-		//git test4
-=======
-		//git test
->>>>>>> 1d17ce1 Update HellospringApplication.java
+		//git test3
 		SpringApplication.run(HellospringApplication.class, args);
 	}
 
